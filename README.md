@@ -32,8 +32,11 @@ I have experiences more than 1 years of developing as a Self-project <br>
 and Freelance. I'm looking for new chanllenging project. Might be <br>
 startup or something else. Let Go to the moon with us!! <br><br><br><br>
 </div>
-💻🧘‍♂️ [My Profile Website](https://astrodevel.herokuapp.com)
+💻🧘‍♂️ [My Profile Website and Contact information in here 😇😇😇](https://astrodevel.herokuapp.com)
 </p>
+</h1>
+  For see my private project pls contact me 😇😇😇
+</h1>
 ----------------------------------------------
   
 <h2><div align="left"><img src="https://media.giphy.com/media/Skilli-World-level-up-skillup-skilli-JqIrxIRLrxx0NHxMDI/giphy.gif" width="30px">&nbsp;Tools and skills<div></h2><br/>
