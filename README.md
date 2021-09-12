@@ -33,10 +33,11 @@ and Freelance. I'm looking for new chanllenging project. Might be <br>
 startup or something else. Let Go to the moon with us!! <br><br><br><br>
 </div>
 💻🧘‍♂️ [My Profile Website and Contact information in here 😇😇😇](https://astrodevel.herokuapp.com)
+  <h3 style="color: yellow">
+  For see my private project please contact me 😇😇😇
+</h3>
 </p>
-</h1>
-  For see my private project pls contact me 😇😇😇
-</h1>
+
 ----------------------------------------------
   
 <h2><div align="left"><img src="https://media.giphy.com/media/Skilli-World-level-up-skillup-skilli-JqIrxIRLrxx0NHxMDI/giphy.gif" width="30px">&nbsp;Tools and skills<div></h2><br/>
