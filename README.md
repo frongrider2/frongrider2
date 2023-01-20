@@ -122,11 +122,6 @@ startup or something else. Let Go to the moon with us!! <br><br><br><br>
       alt="vueJs"/>
   </a>
 
-  
-      <a target="_blank"> 
-    <img width="60" src="https://upload.wikimedia.org/wikipedia/commons/6/66/Nuxt_logo_%282021%29.svg"
-      alt="nuxtjs"/>
-  </a>
    <a target="_blank"> 
     <img src="https://camo.githubusercontent.com/aa916459587c41a98e7b16e1adacc821f08a9733bcce342640a7c4f466980a19/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7765627061636b2d3844443646392e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7765627061636b266c6f676f436f6c6f723d626c61636b"
       alt="webpack"/>
