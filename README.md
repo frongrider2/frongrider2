@@ -105,7 +105,7 @@ startup or something else. Let Go to the moon with us!! <br><br><br><br>
   </a>
   
    <a target="_blank"> 
-    <img width="50" src="https://laravelnews.s3.amazonaws.com/images/tailwindcss-1633184775.jpg?w=1920&h=960&q=90&auto=format&fit=crop"
+    <img width="70" src="https://laravelnews.s3.amazonaws.com/images/tailwindcss-1633184775.jpg?w=1920&h=960&q=90&auto=format&fit=crop"
       alt="tailwind"/>
   </a>
   
@@ -118,7 +118,7 @@ startup or something else. Let Go to the moon with us!! <br><br><br><br>
       alt="react"/>
   </a>
      <a target="_blank"> 
-    <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*goSuHxAHqRR8alv_h_3nCw.png"
+    <img width="60" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*goSuHxAHqRR8alv_h_3nCw.png"
       alt="vueJs"/>
   </a>
    <a target="_blank"> 
