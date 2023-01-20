@@ -105,7 +105,7 @@ startup or something else. Let Go to the moon with us!! <br><br><br><br>
   </a>
   
    <a target="_blank"> 
-    <img src="https://laravelnews.s3.amazonaws.com/images/tailwindcss-1633184775.jpg?w=1920&h=960&q=90&auto=format&fit=crop"
+    <img width="50" src="https://laravelnews.s3.amazonaws.com/images/tailwindcss-1633184775.jpg?w=1920&h=960&q=90&auto=format&fit=crop"
       alt="tailwind"/>
   </a>
   
