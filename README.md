@@ -123,9 +123,10 @@ startup or something else. Let Go to the moon with us!! <br><br><br><br>
   </a>
   
   <a target="_blank"> 
-    <img width="60" src="https://upload.wikimedia.org/wikipedia/commons/6/66/Nuxt_logo_%282021%29.svg"
+    <img width="60" src="https://miro.medium.com/max/1400/0*HsriGncgl-JOIbE0.webp"
       alt="nuxt.js"/>
   </a>
+
   
 
 
