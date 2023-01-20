@@ -103,6 +103,12 @@ startup or something else. Let Go to the moon with us!! <br><br><br><br>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
       alt="css"/>
   </a>
+  
+   <a target="_blank"> 
+    <img src="https://laravelnews.s3.amazonaws.com/images/tailwindcss-1633184775.jpg?w=1920&h=960&q=90&auto=format&fit=crop"
+      alt="tailwind"/>
+  </a>
+  
   <a target="_blank"> 
     <img src="https://camo.githubusercontent.com/3ca2745b8b214e8875b5f17336b7fe9f0e572109e31ac7cf031ead755cc6d9b6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f626162656c2d4639444333452e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d626162656c266c6f676f436f6c6f723d626c61636b"
       alt="babel"/>
@@ -112,7 +118,7 @@ startup or something else. Let Go to the moon with us!! <br><br><br><br>
       alt="react"/>
   </a>
      <a target="_blank"> 
-    <img src="https://camo.githubusercontent.com/d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656163746a732d3631444146422e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d626c61636b](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*goSuHxAHqRR8alv_h_3nCw.png"
+    <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*goSuHxAHqRR8alv_h_3nCw.png"
       alt="vueJs"/>
   </a>
    <a target="_blank"> 
