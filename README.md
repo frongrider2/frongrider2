@@ -110,11 +110,11 @@ startup or something else. Let Go to the moon with us!! <br><br><br><br>
   </a>
   
   <a target="_blank"> 
-    <img width="60" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*03wq-hnYO21Cw8ZwRluPNw.png"
+    <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*03wq-hnYO21Cw8ZwRluPNw.png"
       alt="babel"/>
   </a>
    <a target="_blank"> 
-    <img width="60" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"
       alt="react"/>
   </a>
   <a target="_blank"> 
@@ -131,12 +131,12 @@ startup or something else. Let Go to the moon with us!! <br><br><br><br>
 
 
    <a target="_blank"> 
-    <img src="https://camo.githubusercontent.com/aa916459587c41a98e7b16e1adacc821f08a9733bcce342640a7c4f466980a19/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7765627061636b2d3844443646392e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7765627061636b266c6f676f436f6c6f723d626c61636b"
+    <img width="60" src="https://webpack.js.org/site-logo.c0e60df418e04f58.svg"
       alt="webpack"/>
   </a>
   
   <a target="_blank"> 
-    <img src="https://camo.githubusercontent.com/8cfeadeead6d7a9a796f925cec83c2cac71e07607bf342ce4dd51dd796a45e00/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656475782d3736344142432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7265647578266c6f676f436f6c6f723d7768697465"
+    <img width="60" src="https://miro.medium.com/v2/resize:fit:1000/format:webp/1*tOI6UC5EaS2fPItCesI-AQ.png"
       alt="redux"/>
   </a>
   
@@ -235,11 +235,11 @@ startup or something else. Let Go to the moon with us!! <br><br><br><br>
       alt="solidty"/>
   </a>
   <a target="_blank"> 
-    <img src="https://camo.githubusercontent.com/568b25d1eedaec33d63b530072a31643315afb172ae235f7bf79100ac942a71e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656163746a732d3631444146422e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d626c61636b"
-      alt="react"/>
+    <img width="80px" src="https://viem.sh/logo-light-hug.svg"
+      alt="viem"/>
   </a>
   <a target="_blank"> 
-    <img width="120px" src="https://www.blockchainexpert.uk/blog/Uploads/BlogImage/what-is-web3js-blockchain-decentralized-web.png"
+    <img width="120px" src="https://raw.githubusercontent.com/ChainSafe/web3.js/HEAD/assets/logo/web3js.jpg"
       alt="web3"/>
   </a>
   <a target="_blank"> 
