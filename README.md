@@ -110,11 +110,11 @@ startup or something else. Let Go to the moon with us!! <br><br><br><br>
   </a>
   
   <a target="_blank"> 
-    <img src="https://camo.githubusercontent.com/3ca2745b8b214e8875b5f17336b7fe9f0e572109e31ac7cf031ead755cc6d9b6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f626162656c2d4639444333452e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d626162656c266c6f676f436f6c6f723d626c61636b"
+    <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*03wq-hnYO21Cw8ZwRluPNw.png"
       alt="babel"/>
   </a>
    <a target="_blank"> 
-    <img src="https://camo.githubusercontent.com/568b25d1eedaec33d63b530072a31643315afb172ae235f7bf79100ac942a71e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656163746a732d3631444146422e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d626c61636b"
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"
       alt="react"/>
   </a>
   <a target="_blank"> 
