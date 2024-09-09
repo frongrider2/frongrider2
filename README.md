@@ -110,11 +110,11 @@ startup or something else. Let Go to the moon with us!! <br><br><br><br>
   </a>
   
   <a target="_blank"> 
-    <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*03wq-hnYO21Cw8ZwRluPNw.png"
+    <img width="70" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*03wq-hnYO21Cw8ZwRluPNw.png"
       alt="babel"/>
   </a>
    <a target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"
+    <img width="70" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"
       alt="react"/>
   </a>
   <a target="_blank"> 
