@@ -24,7 +24,7 @@
 <img align="right" src="https://github.com/frongrider2/frongrider2/blob/main/2091.jpg" width="300" alt="about me">
 <div align="left">
 My name is Apisit and You can call me Frong Astronoute.. <br>
-Currently I am studying in faculty of Information Technology at <br>
+Currently I graduated in faculty of Information Technology at <br>
 king mongkut's university of technology thonburi. I had learnt a lot <br>
 for nodejs field. after that, I have kept learning coding as <br>
 a fullstack developer. Especially, on React React Native field. <br>
@@ -32,7 +32,7 @@ I have experiences more than 1 years of developing as a Self-project <br>
 and Freelance. I'm looking for new chanllenging project. Might be <br>
 startup or something else. Let Go to the moon with us!! <br><br><br><br>
 </div>
-💻🧘‍♂️ [My Profile Website and Contact information in here 😇😇😇](https://astrodevel.herokuapp.com)
+💻🧘‍♂️ [My Profile Website and Contact information in here 😇😇😇]
   <h3 style="color: yellow">
   For see my private project please contact me 😇😇😇
 </h3>
