@@ -23,9 +23,7 @@
   
 <img align="right" src="https://github.com/frongrider2/frongrider2/blob/main/2091.jpg" width="300" alt="about me">
 <div align="left">
-My name is Apisit and You can call me Frong Astronoute.. <br>
-Currently I graduated in faculty of Information Technology at <br>
-king mongkut's university of technology thonburi. I had learnt a lot <br>
+I had learnt a lot <br>
 for nodejs field. after that, I have kept learning coding as <br>
 a fullstack developer. Especially, on React React Native field. <br>
 I have experiences more than 4 years of developing as a Self-project <br>
