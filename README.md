@@ -1,6 +1,4 @@
-<div align="center">
-  <h1> Hello! I'm Frong Apisit <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
-</div>
+
 
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=frongrider2&color=brightgreen" alt="watching_count" />
