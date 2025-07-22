@@ -61,6 +61,11 @@ startup or something else. Let Go to the moon with us!! <br><br><br><br>
     <img width="120px" src="https://github.com/frongrider2/frongrider2/blob/main/solidty.png"
       alt="solidty"/>
   </a>
+
+  <a target="_blank"> 
+    <img width="100px" src="https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white"
+      alt="rust"/> 
+  </a>
 </p>
   
   <h3 align="center">UI / UX</h3>
@@ -245,6 +250,25 @@ startup or something else. Let Go to the moon with us!! <br><br><br><br>
     <img width="120px" src="https://s3.amazonaws.com/infura-blog-content/2021/05/pasted-image-0--41-.png"
       alt="ganachee"/>
   </a>
+<p/>
+
+ <h3 align="center">Infra</h3>
+<p align="center">
+  <a target="_blank"> 
+    <img width="120px" src="https://www.docker.com/app/uploads/2023/08/logo-guide-logos-1.svg"
+      alt="docker"/>
+  </a>
+  <a target="_blank"> 
+    <img width="120px" src="https://icon.icepanel.io/Technology/svg/GitHub-Actions.svg"
+      alt="githubaction"/>
+  </a>
+
+   <a target="_blank"> 
+    <img width="120px" src="https://github.com/kubernetes/kubernetes/blob/master/logo/logo.png?raw=true"
+      alt="githubaction"/>
+  </a>
+
+ 
 <p/>
   
  
