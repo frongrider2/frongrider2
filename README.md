@@ -4,7 +4,7 @@
 <img src="https://komarev.com/ghpvc/?username=frongrider2&color=brightgreen" alt="watching_count" />
  </p>
  <p align="center">
-<img src="https://img.shields.io/badge/Age-23-blue" />
+<img src="https://img.shields.io/badge/Age-27-blue" />
   <img src="https://img.shields.io/badge/Focus-MernStack%20-brightgreen" />
   <img src="https://img.shields.io/badge/Love-React%20-success" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Thailand-brightgreen" />
