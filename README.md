@@ -239,15 +239,15 @@ startup or something else. Let Go to the moon with us!! <br><br><br><br>
       alt="viem"/>
   </a>
   <a target="_blank"> 
-    <img width="120px" src="https://raw.githubusercontent.com/ChainSafe/web3.js/HEAD/assets/logo/web3js.jpg"
+    <img width="60px" src="https://raw.githubusercontent.com/ChainSafe/web3.js/HEAD/assets/logo/web3js.jpg"
       alt="web3"/>
   </a>
   <a target="_blank"> 
-    <img width="120px" src="https://i0.wp.com/www.mycryptopedia.com/wp-content/uploads/2019/11/rsz_ganachee.png?fit=563%2C307&ssl=1"
+    <img width="60px" src="https://i0.wp.com/www.mycryptopedia.com/wp-content/uploads/2019/11/rsz_ganachee.png?fit=563%2C307&ssl=1"
       alt="ganachee"/>
   </a>
   <a target="_blank"> 
-    <img width="120px" src="https://s3.amazonaws.com/infura-blog-content/2021/05/pasted-image-0--41-.png"
+    <img width="60px" src="https://s3.amazonaws.com/infura-blog-content/2021/05/pasted-image-0--41-.png"
       alt="ganachee"/>
   </a>
 <p/>
@@ -255,16 +255,16 @@ startup or something else. Let Go to the moon with us!! <br><br><br><br>
  <h3 align="center">Infra</h3>
 <p align="center">
   <a target="_blank"> 
-    <img width="120px" src="https://www.docker.com/app/uploads/2023/08/logo-guide-logos-1.svg"
+    <img width="60px" src="https://www.docker.com/app/uploads/2023/08/logo-guide-logos-1.svg"
       alt="docker"/>
   </a>
   <a target="_blank"> 
-    <img width="120px" src="https://icon.icepanel.io/Technology/svg/GitHub-Actions.svg"
+    <img width="60px" src="https://icon.icepanel.io/Technology/svg/GitHub-Actions.svg"
       alt="githubaction"/>
   </a>
 
    <a target="_blank"> 
-    <img width="120px" src="https://github.com/kubernetes/kubernetes/blob/master/logo/logo.png?raw=true"
+    <img width="60px" src="https://github.com/kubernetes/kubernetes/blob/master/logo/logo.png?raw=true"
       alt="githubaction"/>
   </a>
 
